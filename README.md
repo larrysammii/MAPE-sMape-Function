@@ -1,1 +1,1 @@
-# MAPE-sMape-Function
+# Study Notes for Data Science
